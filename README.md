@@ -36,6 +36,7 @@ Tested on Safari and Chrome
 ## Authors
 
 * **Spencer Kitchen** - Nov 28 2016
+* email: sckitchen.dev@gmail.com
 
 ## Acknowledgments
 * Wayne O. Cochran for providing matrix.js library for MVP transformations.
